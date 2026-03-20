@@ -1,1 +1,47 @@
 
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Socioplastics",
+  "creator": {
+    "@type": "Person",
+    "name": "Anto Lloveras"
+  },
+  "identifier": "https://zenodo.org/records/18792486",
+  "description": "Socioplastics is a transdisciplinary epistemic infrastructure structured as a mesh of indexed nodes across scalar regimes.",
+  "keywords": [
+    "Socioplastics",
+    "epistemic infrastructure",
+    "semantic hardening",
+    "citational commitment",
+    "urban theory",
+    "conceptual art",
+    "systems theory"
+  ],
+  "isBasedOn": [
+    "https://github.com/AntoLloveras/Socioplastics",
+    "https://antolloveras.blogspot.com"
+  ],
+  "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "name": "Core I Decalogue",
+      "identifier": "https://doi.org/10.5281/zenodo.18682555"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Core II",
+      "identifier": "https://doi.org/10.5281/zenodo.18999380"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Gravitational Corpus",
+      "identifier": "https://doi.org/10.5281/zenodo.18792486"
+    }
+  ],
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://github.com/AntoLloveras/Socioplastics/tree/main/data"
+  }
+}
