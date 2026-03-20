@@ -1,1 +1,30 @@
 
+{
+  "id": "0001",
+  "system": "Socioplastics",
+  "type": "node",
+  "title": "Socioplastics installs itself as epistemic infrastructure",
+  "operators": [
+    "Epistemology",
+    "SystemsTheory",
+    "MediaTheory"
+  ],
+  "camelTags": [
+    "EpistemicInfrastructure",
+    "SemanticHardening",
+  ],
+  "scale": {
+    "level": 1,
+    "unit": "node"
+  },
+  "relations": {
+    "previous": null,
+    "next": "0002",
+    "pack": "0001-0100"
+  },
+  "distribution": {
+    "blog": "https://antolloveras.blogspot.com/",
+    "doi": "https://zenodo.org/records/18792486"
+  },
+  "status": "active"
+}
