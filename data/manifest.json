@@ -1,1 +1,12 @@
 
+{
+  "name": "Socioplastics",
+  "version": "1.0.0",
+  "tome": 1,
+  "range": "0001–1270",
+  "structure": ["tag", "slug", "tail", "pack", "tome"],
+  "operators": 10,
+  "nodes": 1270,
+  "core": ["501–510", "991–1000"],
+  "entry": "index.json"
+}
