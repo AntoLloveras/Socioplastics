@@ -1,1 +1,94 @@
+{
+  "system": "Socioplastics",
+  "type": "global-index",
+  "range": "001–1270+",
+  "logic": "continuous-mesh",
+  "layers": {
+    "nodes": [
+      {
+        "id": "1270",
+        "slug": "TOTAL-SYSTEM-STABILIZATION",
+        "url": "https://telegra.ph/The-completion-of-the-1261-1270-cycle-signals-the-absolute-stabilization-of-the-socioplastic-field-03-19"
+      },
+      {
+        "id": "1269",
+        "slug": "FEEDBACK-AS-STRUCTURAL-EVOLUTION",
+        "url": "https://telegra.ph/Socioplastics-operates-through-internal-feedback-loops-where-system-noise-is-recycled-as-conceptual-signal-03-19"
+      },
+      {
+        "id": "1268",
+        "slug": "THE-ENVIRONMENT-AS-OPERATIONAL-SURFACE",
+        "url": "https://telegra.ph/Beyond-the-white-cube-the-entire-informational-environment-becomes-the-active-surface-of-artistic-engagement-03-19"
+      }
+    ],
 
+    "packs": [
+      {
+        "id": "1010",
+        "title": "CENTURY PACK 10",
+        "range": "0901–1000",
+        "url": "https://antolloveras.blogspot.com/2026/03/socioplastic-century-pack-1000-posts.html"
+      },
+      {
+        "id": "1001",
+        "title": "CENTURY PACK 01",
+        "range": "0001–0100",
+        "url": "https://antolloveras.blogspot.com/2026/02/socioplastic-century-pack-100.html"
+      }
+    ],
+
+    "cores": {
+      "core_II": [
+        {
+          "id": "1000",
+          "title": "Stratigraphic Field",
+          "doi": "https://doi.org/10.5281/zenodo.18999380"
+        },
+        {
+          "id": "999",
+          "title": "TransEpistemology",
+          "doi": "https://doi.org/10.5281/zenodo.18999225"
+        }
+      ],
+
+      "core_I": [
+        {
+          "id": "510",
+          "title": "Systemic Lock",
+          "doi": "https://doi.org/10.5281/zenodo.18682555"
+        },
+        {
+          "id": "501",
+          "title": "Flow Channeling",
+          "doi": "https://doi.org/10.5281/zenodo.18678959"
+        }
+      ]
+    },
+
+    "urban_essays": [
+      {
+        "id": "810",
+        "title": "Energy Transition and Flow Reconfiguration",
+        "doi": "https://doi.org/10.6084/m9.figshare.31563718"
+      },
+      {
+        "id": "801",
+        "title": "Rent as Displacement Machine",
+        "doi": "https://doi.org/10.6084/m9.figshare.31563508"
+      }
+    ],
+
+    "meta": [
+      {
+        "id": "750",
+        "title": "Gravitational Corpus",
+        "doi": "https://doi.org/10.5281/zenodo.18792486"
+      },
+      {
+        "id": "100-works",
+        "title": "100 Works by Anto Lloveras",
+        "url": "https://antolloveras.blogspot.com/2026/01/100-works-by-anto-lloveras.html"
+      }
+    ]
+  }
+}
