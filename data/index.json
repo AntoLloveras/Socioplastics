@@ -1,1 +1,48 @@
 
+{
+  "project": "Socioplastics",
+  "author": "Anto Lloveras",
+  "updated": "2026-03",
+
+  "index": [
+
+    { "type": "pack", "id": 1010, "title": "CENTURY PACK 10", "range": "0901–1000", "url": "https://antolloveras.blogspot.com/2026/03/socioplastic-century-pack-1000-posts.html" },
+    { "type": "pack", "id": 1009, "title": "CENTURY PACK 09", "range": "0801–0900", "url": "https://antolloveras.blogspot.com/2026/03/socioplastic-century-pack-900-posts-801.html" },
+    { "type": "pack", "id": 1008, "title": "CENTURY PACK 08", "range": "0701–0800", "url": "https://antolloveras.blogspot.com/2026/02/socioplastic-century-pack-800.html" },
+    { "type": "pack", "id": 1007, "title": "CENTURY PACK 07", "range": "0601–0700", "url": "https://antolloveras.blogspot.com/2026/02/socioplastic-century-pack-700-sovereign.html" },
+    { "type": "pack", "id": 1006, "title": "CENTURY PACK 06", "range": "0501–0600", "url": "https://antolloveras.blogspot.com/2026/02/socioplastic-century-pack-600-sovereign.html" },
+    { "type": "pack", "id": 1005, "title": "CENTURY PACK 05", "range": "0401–0500", "url": "https://antolloveras.blogspot.com/2026/02/socioplastic-century-pack-500-sovereign.html" },
+    { "type": "pack", "id": 1004, "title": "CENTURY PACK 04", "range": "0301–0400", "url": "https://antolloveras.blogspot.com/2026/02/socioplastic-century-pack-400-sovereign.html" },
+    { "type": "pack", "id": 1003, "title": "CENTURY PACK 03", "range": "0201–0300", "url": "https://antolloveras.blogspot.com/2026/02/socioplastic-century-pack-300-metabolic.html" },
+    { "type": "pack", "id": 1002, "title": "CENTURY PACK 02", "range": "0101–0200", "url": "https://antolloveras.blogspot.com/2026/02/socioplastic-century-pack-200-critical.html" },
+    { "type": "pack", "id": 1001, "title": "CENTURY PACK 01", "range": "0001–0100", "url": "https://antolloveras.blogspot.com/2026/02/socioplastic-century-pack-100.html" },
+
+    { "type": "core_ii", "id": 1000, "title": "StratigraphicField", "url": "https://doi.org/10.5281/zenodo.18999380" },
+    { "type": "core_ii", "id": 999, "title": "TransEpistemology", "url": "https://doi.org/10.5281/zenodo.18999225" },
+    { "type": "core_ii", "id": 998, "title": "LexicalGravity", "url": "https://doi.org/10.5281/zenodo.18999133" },
+    { "type": "core_ii", "id": 997, "title": "TorsionalDynamics", "url": "https://doi.org/10.5281/zenodo.18999020" },
+    { "type": "core_ii", "id": 996, "title": "HelicoidalAnatomy", "url": "https://doi.org/10.5281/zenodo.18998932" },
+    { "type": "core_ii", "id": 995, "title": "ConceptualAnchors", "url": "https://doi.org/10.5281/zenodo.18998736" },
+    { "type": "core_ii", "id": 994, "title": "RecurrenceMass", "url": "https://doi.org/10.5281/zenodo.18998404" },
+    { "type": "core_ii", "id": 993, "title": "ScalarArchitecture", "url": "https://doi.org/10.5281/zenodo.18998246" },
+    { "type": "core_ii", "id": 992, "title": "DecalogueProtocol", "url": "https://doi.org/10.5281/zenodo.18991862" },
+    { "type": "core_ii", "id": 991, "title": "NumericalTopology", "url": "https://doi.org/10.5281/zenodo.18991243" },
+
+    { "type": "core_i", "id": 510, "title": "Systemic Lock", "url": "https://doi.org/10.5281/zenodo.18682555" },
+    { "type": "core_i", "id": 509, "title": "Postdigital Taxidermy", "url": "https://doi.org/10.5281/zenodo.18682480" },
+    { "type": "core_i", "id": 508, "title": "Topolexical Sovereignty", "url": "https://doi.org/10.5281/zenodo.18682343" },
+    { "type": "core_i", "id": 507, "title": "Citational Commitment", "url": "https://doi.org/10.5281/zenodo.18475136" },
+    { "type": "core_i", "id": 506, "title": "Recursive Autophagia", "url": "https://doi.org/10.5281/zenodo.18681761" },
+    { "type": "core_i", "id": 505, "title": "Proteolytic Transmutation", "url": "https://doi.org/10.5281/zenodo.18681278" },
+    { "type": "core_i", "id": 504, "title": "Stratum Authoring", "url": "https://doi.org/10.5281/zenodo.18680935" },
+    { "type": "core_i", "id": 503, "title": "Semantic Hardening", "url": "https://doi.org/10.5281/zenodo.18680418" },
+    { "type": "core_i", "id": 502, "title": "Cameltag Infrastructure", "url": "https://doi.org/10.5281/zenodo.18680031" },
+    { "type": "core_i", "id": 501, "title": "Flow Channeling", "url": "https://doi.org/10.5281/zenodo.18678959" }
+
+  ],
+
+  "works": {
+    "title": "100 Works by Anto Lloveras",
+    "url": "https://antolloveras.blogspot.com/2026/01/100-works-by-anto-lloveras.html"
+  }
+}
