@@ -1,51 +1,96 @@
+
+---
 # Socioplastics
 
-Socioplastics is a transdisciplinary epistemic field structured across three coupled regimes:
+Socioplastics is a transdisciplinary epistemic field structured as a distributed knowledge infrastructure across architecture, art, urbanism, and systems theory.
 
-### 1. Scalar Structure
-CamelTag → 1 (slug) → 10 (tail) → 100 (Pack) → 1000 (Tome)
+It operates through indexed writing, scalar organization, and multi-platform deployment, producing a durable and machine-readable corpus.
 
-The system grows through aggregation. Each threshold introduces a change of state: from semantic potential to navigable territory.
+---
+
+## Structure
+
+### 1. Scalar Regime
+CamelTag → 1 (slug) → 10 (tail) → 100 (Book) → 1000 (Tome)
+
+The system grows through discrete thresholds. Each scale shift transforms semantic accumulation into navigable territory.
+
+---
 
 ### 2. Field Operators
-A decalog of ten operators (Linguistics, Conceptual Art, Epistemology, Systems Theory, Architecture, Urbanism, Media Theory, Botany, Choreography, Field Theory) organizes semantic orientation through attractors.
+A decalog of ten operators organizes the epistemic field:
+
+Linguistics · Conceptual Art · Epistemology · Systems Theory · Architecture · Urbanism · Media Theory · Botany · Choreography · Field Theory
+
+---
 
 ### 3. Distributed Infrastructure
-Nodes are deployed across multiple platforms (Blogger, Zenodo, Figshare, Hugging Face, GitHub), producing persistence through redundancy and platform-specific affordances.
+Nodes are deployed across multiple platforms:
 
-Socioplastics operates as an epistemic infrastructure where structure, meaning, and distribution remain partially independent yet operationally coupled.
+Blogger · Zenodo · Figshare · Hugging Face · GitHub
+
+This ensures persistence, redundancy, and platform-specific legibility.
 
 ---
 
 ## Corpus
 
-| Tome | Entries | Status | Index |
-|------|---------|--------|-------|
-| Tome 1 | 1,000 working papers | Complete | [corpus.md](./corpus.md) |
-| Tome 2 | 1,001– | In progress | — |
+- **Tome 1** — 0001–1000 (Complete)  
+- **Tome 2** — 1001–2000 (Structured / Indexed)
+
+**Total: 2,000 nodes**
+
+The corpus functions as a numbered epistemic infrastructure where each node is both autonomous and relationally positioned.
 
 ---
 
 ## Dataset
 
-The full structural index of Tome 1 is available as an open dataset:
+The full structural index of the corpus is available as an open dataset:
 
-**[AntoLloveras/Socioplastics-Index](https://huggingface.co/datasets/AntoLloveras/Socioplastics-Index)** — Hugging Face  
-1,000 entries · 10 books · JSONL + CSV · CC-BY-NC-SA-4.0
+👉 https://huggingface.co/datasets/AntoLloveras/Socioplastics-Index
+
+- 2,000 entries  
+- 20 books  
+- JSONL / machine-readable  
+- License: CC-BY-NC-SA-4.0  
+
+Hugging Face operates as the **data access layer** of the system.
 
 ---
 
-## Repository Structure
+## Repository Role
 
-```
-Socioplastics/
-├── corpus.md          ← Tome 1 navigable index (1,000 slugs)
-├── data/              ← Dataset files
-├── infrastructure/    ← Platform and distribution protocols
-├── nodes/             ← Node architecture
-├── ontology/          ← Epistemic field definition
-└── structure/         ← Scalar regime documentation
-```
+This repository provides:
+
+- Structural documentation  
+- Ontological definitions  
+- Infrastructure protocols  
+
+GitHub functions as the **documentation and coordination layer**, not as the primary data host.
+
+---
+
+## Author
+
+**Anto Lloveras**  
+ORCID: 0009-0009-9820-3319  
+
+- Main blog: https://antolloveras.blogspot.com  
+- Socioplastics: https://socioplastics.blogspot.com  
+
+---
+
+## License
+
+CC-BY-NC-SA-4.0
+
+
+
+**[AntoLloveras/Socioplastics-Index](https://huggingface.co/datasets/AntoLloveras/Socioplastics-Index)** — Hugging Face  
+2,000 entries · 20 books · JSONL + CSV · CC-BY-NC-SA-4.0
+
+---
 
 ---
 
@@ -54,7 +99,7 @@ Socioplastics/
 **Anto Lloveras**  
 ORCID: [0009-0009-9820-3319](https://orcid.org/0009-0009-9820-3319)  
 Main blog: [antolloveras.blogspot.com](https://antolloveras.blogspot.com)  
-Socioplastics: [socioplastics.blogspot.com](https://socioplastics.blogspot.com)
+)
 
 ---
 
