@@ -2,22 +2,30 @@
 ---
 # Socioplastics
 Socioplastics is a transdisciplinary epistemic field structured as a distributed knowledge infrastructure across architecture, art, urbanism, and systems theory. It operates through indexed writing, scalar organization, and multi-platform deployment, producing a durable and machine-readable corpus.
+
 ---
 ## Structure
+
 ### 1. Scalar Regime
+
 CamelTag → 1 (slug) → 10 (tail) → 100 (Book) → 1000 (Tome)
 The system grows through discrete thresholds. Each scale shift transforms semantic accumulation into navigable territory.
+
 ---
 ### 2. Field Operators
+
 A decalog of ten operators organizes the epistemic field:
 Linguistics · Conceptual Art · Epistemology · Systems Theory · Architecture · Urbanism · Media Theory · Botany · Choreography · Field Theory
+
 ---
 ### 3. Distributed Infrastructure
+
 Nodes are deployed across multiple platforms:
 Blogger · Zenodo · Figshare · Hugging Face · GitHub
 This ensures persistence, redundancy, and platform-specific legibility.
 ---
 ## Corpus
+
 - **Tome 1** — 0001–1000 (Complete)  
 - **Tome 2** — 1001–2000 (Complete)  
 **Total: 2,000 nodes**
