@@ -1,0 +1,55 @@
+{
+  "project": "Socioplastics",
+  "description": "Transdisciplinary epistemic infrastructure structured as an indexed corpus across architecture, art, urbanism, and systems theory.",
+  "author": {
+    "name": "Anto Lloveras",
+    "orcid": "0009-0009-9820-3319"
+  },
+  "corpus": {
+    "tomes": 2,
+    "books": 20,
+    "nodes_total": 2000,
+    "range": "0001–2000",
+    "status": {
+      "tome_1": "complete",
+      "tome_2": "structured_indexed"
+    }
+  },
+  "dataset": {
+    "platform": "Hugging Face",
+    "url": "https://huggingface.co/datasets/AntoLloveras/Socioplastics-Index",
+    "format": ["jsonl"],
+    "license": "CC-BY-NC-SA-4.0"
+  },
+  "infrastructure": {
+    "platforms": [
+      "Blogger",
+      "Zenodo",
+      "Figshare",
+      "Hugging Face",
+      "GitHub"
+    ],
+    "roles": {
+      "github": "documentation_layer",
+      "huggingface": "data_access_layer"
+    }
+  },
+  "schema": {
+    "core_fields": [
+      "id",
+      "number",
+      "slug",
+      "title_clean",
+      "abstract_150",
+      "keywords",
+      "tome",
+      "book",
+      "pack_100",
+      "pack_10",
+      "url_blog",
+      "url_doi"
+    ]
+  },
+  "version": "2.0.0",
+  "date": "2026-04-07"
+}
