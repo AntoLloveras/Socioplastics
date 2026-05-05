@@ -1,0 +1,47 @@
+SOCIOPLASTICS — COMPLETE CORPUS INDEX
+Nodes 0001–3000 · Books 01–30 · Chapters 001–300 · Tomes I–III
+Anto Lloveras · LAPIEZA-LAB, Madrid · ORCID 0009-0009-9820-3319
+License CC BY-NC-SA 4.0 · 2026
+========================================================================
+
+TOME I · FOUNDATIONAL STRATUM · Nodes 0001–1000
+
+  Book 01 · Epistemic Architecture · Nodes 0001–0100
+  Book 02 · Field Formation · Nodes 0101–0200
+  Book 03 · Systemic Protocols · Nodes 0201–0300
+  Book 04 · Urban Registers · Nodes 0301–0400
+  Book 05 · Conceptual Operators · Nodes 0401–0500
+  Book 06 · Material Inscription · Nodes 0501–0600
+  Book 07 · Territorial Systems · Nodes 0601–0700
+  Book 08 · Media Theory · Nodes 0701–0800
+  Book 09 · Morphogenesis · Nodes 0801–0900
+  Book 10 · Synthetic Infrastructure · Nodes 0901–1000
+
+TOME II · DEVELOPMENTAL STRATUM · Nodes 1001–2000
+
+  Book 11 · Stratigraphic Extensions · Nodes 1001–1100
+  Book 12 · Linguistic Architectures · Nodes 1101–1200
+  Book 13 · Epistemological Cores · Nodes 1201–1300
+  Book 14 · Systems Dynamics · Nodes 1301–1400
+  Book 15 · Decalogue Protocols · Nodes 1401–1500
+  Book 16 · Conceptual Art Registers · Nodes 1501–1600
+  Book 17 · Urban Theory Extensions · Nodes 1601–1700
+  Book 18 · Media Ecologies · Nodes 1701–1800
+  Book 19 · Morphogenetic Operators · Nodes 1801–1900
+  Book 20 · Field Consolidation · Nodes 1901–2000
+
+TOME III · EXPANSIVE STRATUM · Nodes 2001–3000
+
+  Book 21 · Legibility Logic · Nodes 2001–2100
+  Book 22 · Field Engine · Nodes 2101–2200
+  Book 23 · Form Under Pressure · Nodes 2201–2300
+  Book 24 · Distributed Geography · Nodes 2301–2400
+  Book 25 · Field Conditions · Nodes 2401–2500
+  Book 26 · Systemic Expansion · Nodes 2501–2600
+  Book 27 · Urbanas / Territorial Practice · Nodes 2601–2700
+  Book 28 · Works / Operational Archive · Nodes 2701–2800
+  Book 29 · Legibility Infrastructure · Nodes 2801–2900
+  Book 30 · Executive Mode · Nodes 2901–3000
+
+========================================================================
+TOTAL: 3000 nodes · 300 chapters · 30 books · 3 tomes

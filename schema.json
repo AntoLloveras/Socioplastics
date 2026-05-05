@@ -1,0 +1,85 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://lapieza-lab.es/#organization",
+      "name": "LAPIEZA-LAB",
+      "url": "https://lapieza-lab.es/",
+      "founder": { "@id": "https://orcid.org/0009-0009-9820-3319#person" },
+      "location": { "@type": "Place", "name": "Madrid, Spain" },
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q139504058"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://orcid.org/0009-0009-9820-3319#person",
+      "name": "Anto Lloveras",
+      "url": "https://antolloveras.blogspot.com/",
+      "affiliation": { "@id": "https://lapieza-lab.es/#organization" },
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "ORCID", "value": "0009-0009-9820-3319" },
+        { "@type": "PropertyValue", "propertyID": "OpenAlex", "value": "A5071531341" }
+      ],
+      "sameAs": [
+        "https://orcid.org/0009-0009-9820-3319",
+        "https://openalex.org/authors/A5071531341",
+        "https://www.wikidata.org/wiki/Q139532324"
+      ]
+    },
+    {
+      "@type": "ResearchProject",
+      "@id": "https://github.com/AntoLloveras/Socioplastics#project",
+      "name": "Socioplastics",
+      "alternateName": [
+        "Socioplastics Research Framework",
+        "Socioplastics Epistemic Infrastructure"
+      ],
+      "url": "https://github.com/AntoLloveras/Socioplastics",
+      "creator": { "@id": "https://orcid.org/0009-0009-9820-3319#person" },
+      "publisher": { "@id": "https://lapieza-lab.es/#organization" },
+      "dateCreated": "2009",
+      "temporalCoverage": "2009/..",
+      "inLanguage": ["en", "es"],
+      "description": "Socioplastics is a long-duration transdisciplinary research framework operating across architecture, urban theory, epistemology, systems theory, media theory and conceptual art as a distributed epistemic infrastructure.",
+      "keywords": [
+        "Socioplastics",
+        "epistemic infrastructure",
+        "urban theory",
+        "conceptual art",
+        "systems theory",
+        "transdisciplinary research"
+      ],
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q139530224",
+        "https://antolloveras.blogspot.com/p/socioplastics-project-index.html",
+        "https://huggingface.co/datasets/AntoLloveras/Socioplastics-Index"
+      ],
+      "hasPart": [
+        { "@id": "https://github.com/AntoLloveras/Socioplastics#tomes" },
+        { "@id": "https://huggingface.co/datasets/AntoLloveras/Socioplastics-Index#dataset" }
+      ]
+    },
+    {
+      "@type": "CreativeWorkSeries",
+      "@id": "https://github.com/AntoLloveras/Socioplastics#tomes",
+      "name": "Socioplastics Tomes",
+      "numberOfItems": 3,
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Tome I — Foundational Stratum", "url": "https://socioplastics.blogspot.com/p/socioplastics-tome-i-foundational.html" },
+        { "@type": "ListItem", "position": 2, "name": "Tome II — Developmental Stratum", "url": "https://socioplastics.blogspot.com/p/socioplastics-tome-ii-developmental.html" },
+        { "@type": "ListItem", "position": 3, "name": "Tome III — Expansive Stratum", "url": "https://socioplastics.blogspot.com/p/socioplastics-tome-iii-expansive.html" }
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://huggingface.co/datasets/AntoLloveras/Socioplastics-Index#dataset",
+      "name": "Socioplastics Index Dataset",
+      "url": "https://huggingface.co/datasets/AntoLloveras/Socioplastics-Index",
+      "creator": { "@id": "https://orcid.org/0009-0009-9820-3319#person" },
+      "description": "Machine-readable index of the Socioplastics corpus (3000 nodes).",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}
