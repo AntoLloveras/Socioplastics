@@ -1,0 +1,46 @@
+{
+  "title": "Socioplastics — Complete Corpus",
+  "subtitle": "Transdisciplinary Urban Theory and Epistemic Infrastructure",
+  "author": "Anto Lloveras",
+  "orcid": "0009-0009-9820-3319",
+  "institutional_frame": "LAPIEZA-LAB, Madrid, Spain",
+  "license": "CC BY-NC-SA 4.0",
+  "version": "v1.0.0",
+  "date": "2026-05-25",
+  "interface": "https://antolloveras.blogspot.com",
+  "total_nodes": 4000,
+  "total_books": 40,
+  "total_chapters": 400,
+  "total_tomes": 4,
+  "tomes": [
+    {
+      "tome": 1,
+      "title": "Foundational Stratum",
+      "nodes": "0001–1000",
+      "books": "01–10",
+      "chapters": "001–100"
+    },
+    {
+      "tome": 2,
+      "title": "Developmental Stratum",
+      "nodes": "1001–2000",
+      "books": "11–20",
+      "chapters": "101–200"
+    },
+    {
+      "tome": 3,
+      "title": "Expansive Stratum",
+      "nodes": "2001–3000",
+      "books": "21–30",
+      "chapters": "201–300"
+    },
+    {
+      "tome": 4,
+      "title": "Consolidation Stratum",
+      "nodes": "3001–4000",
+      "books": "31–40",
+      "chapters": "301–400"
+    }
+  ],
+  "recommended_citation": "Lloveras, A. (2026). Socioplastics — Complete Corpus: Tomes I–IV, Nodes 0001–4000 (v1.0.0). LAPIEZA-LAB, Madrid, Spain."
+}

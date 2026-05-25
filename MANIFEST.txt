@@ -1,0 +1,23 @@
+SOCIOPLASTICS — GLOBAL README + JSON PACKAGE
+
+Tome 1: 1000 nodes · range 1–1000 · missing 0 · duplicates 0
+Tome 2: 1000 nodes · range 1001–2000 · missing 0 · duplicates 0
+Tome 3: 1000 nodes · range 2001–3000 · missing 0 · duplicates 0
+Tome 4: 1000 nodes · range 3001–4000 · missing 0 · duplicates 0
+
+Complete corpus records: 4000
+
+Files:
+- MANIFEST.txt
+- README.md
+- socioplastics-complete-corpus-0001-4000.json
+- socioplastics-complete-corpus-0001-4000.jsonl
+- socioplastics-corpus-metadata.json
+- socioplastics-tome-1.json
+- socioplastics-tome-1.jsonl
+- socioplastics-tome-2.json
+- socioplastics-tome-2.jsonl
+- socioplastics-tome-3.json
+- socioplastics-tome-3.jsonl
+- socioplastics-tome-4.json
+- socioplastics-tome-4.jsonl
