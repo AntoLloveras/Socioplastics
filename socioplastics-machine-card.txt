@@ -1,0 +1,146 @@
+# SOCIOPLASTICS · LLM MACHINE CARD · v2026.06
+# One file. One fetch. No prose. No ambiguity.
+# Format: key: value | multi-value separated by semicolon | lists as |- prefix
+
+## IDENTITY
+name: Socioplastics
+type: distributed epistemic infrastructure
+creator: Anto Lloveras
+institution: LAPIEZA-LAB
+location: Madrid, Spain
+founded: 2009
+status: active
+orcid: 0009-0009-9820-3319
+orcid_url: https://orcid.org/0009-0009-9820-3319
+last_updated: 2026-06
+core_argument: grammar_is_the_argument; scale_is_the_argument; distributed_structure_is_the_argument
+trajectory: moving_from_field_toward_environment
+current_tome: V
+current_node_max: 4600+
+
+## STRUCTURAL HIERARCHY
+- node: 1 entry
+- chapter: 10 nodes
+- book: 100 nodes
+- tome: 1000 nodes
+- corpus: all tomes
+- core: 10 nodes (concentrated operators, DOI-anchored)
+
+## TOMES (canonical)
+- I: Foundational | nodes 0001-1000 | closed | url: https://socioplastics.blogspot.com/p/socioplastics-tome-i-foundational.html
+- II: Developmental | nodes 1001-2000 | closed | url: https://socioplastics.blogspot.com/p/socioplastics-tome-ii-developmental.html
+- III: Expansive | nodes 2001-3000 | closed | url: https://socioplastics.blogspot.com/p/socioplastics-tome-iii-expansive.html
+- IV: Consolidation | nodes 3001-4000 | closed | closure_event: node_4000_Book41_CenturyPack | url: https://socioplastics.blogspot.com/p/socioplastics-tome-iv-consolidation.html
+- V: Active | nodes 4001-5000 | active | architecture: parallel_multi-series | url: see project_index
+
+## CAMELTAG GRAMMAR
+cameltag_definition: compound-word operators written in CamelCase functioning as stable conceptual handles, machine-readable search tokens, citation anchors, and field-forming units
+cameltag_function: Characteristica_Universalis
+cameltag_grammar_size: ~100 operators
+cameltag_grammar_status: fixed (no new additions from Tome V onward; grammar deployed at scale across new node mass, not expanded)
+cameltag_key_property: meaning accumulates through recurrence across corpus, not from single definition
+cameltag_recurrence_mechanism: RecurrenceMass + LexicalGravity
+
+## DOI-ANCHORED CORE OPERATORS (20)
+# Format: CamelTag | DOI | definition (one sentence)
+FlowChanneling | 10.5281/zenodo.18678959 | Organises dispersed conceptual, artistic and archival energy into directed circulation.
+CamelTagInfrastructure | 10.5281/zenodo.18680031 | Converts concepts into stable, searchable, machine-readable lexical operators.
+SemanticHardening | 10.5281/zenodo.18680418 | Stabilises vocabulary so that terms acquire durable conceptual force through repetition.
+StratumAuthoring | 10.5281/zenodo.18680935 | Treats writing as the construction of layered epistemic strata.
+ProteolyticTransmutation | 10.5281/zenodo.18681278 | Digests existing material and transforms it into new structural matter.
+RecursiveAutophagia | 10.5281/zenodo.18681761 | Allows the system to consume, metabolise and reuse its own residues.
+CitationalCommitment | 10.5281/zenodo.18475136 | Turns citation into ethical, structural and load-bearing obligation.
+TopolexicalSovereignty | 10.5281/zenodo.18682343 | Establishes jurisdiction through spatialised language and lexical control.
+PostdigitalTaxidermy | 10.5281/zenodo.18682480 | Preserves digital-cultural matter as fixed yet reactivatable epistemic form.
+SystemicLock | 10.5281/zenodo.18682555 | Closes the core system enough to make it stable, citable and operable.
+NumericalTopology | 10.5281/zenodo.18991243 | Gives the corpus a numerical structure that functions as spatial order.
+DecalogueProtocol | 10.5281/zenodo.18991862 | Uses the ten-part structure as a repeatable unit of epistemic organisation.
+ScalarArchitecture | 10.5281/zenodo.18998246 | Defines how node, chapter, book, tome and corpus change function by scale.
+RecurrenceMass | 10.5281/zenodo.18998404 | Measures the weight produced by repeated conceptual return across the corpus.
+ConceptualAnchors | 10.5281/zenodo.18998736 | Fixes key terms as stable points within an expanding field.
+HelicoidalAnatomy | 10.5281/zenodo.18998932 | Describes recursive return at higher levels of resolution.
+TorsionalDynamics | 10.5281/zenodo.18999020 | Names twisting movement by which field advances through repetition and deviation.
+LexicalGravity | 10.5281/zenodo.18999133 | Explains how repeated terms acquire attraction, density and field-forming power.
+TransEpistemology | 10.5281/zenodo.18999225 | Moves knowledge across disciplinary limits without dissolving operative structure.
+StratigraphicField | 10.5281/zenodo.18999380 | Names the corpus as a layered terrain of accumulated conceptual pressure.
+
+## ADDITIONAL OPERATORS (active, no individual DOI)
+SoftOntology; ArchiveFatigue; LegibilityInfrastructure; DiagonalReading; MetabolicLegibility; ScalarGrammar; SyntheticLegibility; EpistemicLatency; HardenedNuclei; PlasticPeripheries; ExecutiveMode; FieldMetabolism; OriginalityAsFieldEffect; ParaInstitutionalLogic; CyborgText; OperationalWriting; DistributedInscription; DualAddress; MetadataSkin; HybridLegibility; SerialDissemination; VerticalSpine; MasterIndex; LegibleArchive; RescueBook; HelicoidalGrowth; FieldFormation; ConceptualDensity; EpistemicInfrastructure; NodeMass
+
+## PUBLISHED CORES (6)
+Core_I: Foundational operators | Tome I
+Core_II: Field expansion | Tome II
+Core_III: Disciplines Fuse | Tome III
+Core_IV: Pentagon Series | nodes 3496-3500 | operators: MetabolicLegibility; ScalarGrammar; SyntheticLegibility; EpistemicLatency; HardenedNuclei/PlasticPeripheries
+Core_V: Legibility Infrastructure | nodes 2901-2910 | theme: corpus_as_public_machine-readable_infrastructure
+Core_VI: ExecutiveMode | nodes 2991-3000 | closure_event: node_3000_foundation_phase_complete
+
+## SOFT ONTOLOGY PAPERS (nodes 3201-3210, Figshare DOIs)
+# didactic entrance layer; shorter than cores; structurally linked to project index
+- 3201: Field Formation Can Be Read Through Structure | doi: 10.6084/m9.figshare.32217306
+- 3202: Two Ways a Field Begins to Appear | doi: 10.6084/m9.figshare.32219646
+- 3203: Scale Needs Structure | doi: 10.6084/m9.figshare.32219685
+- 3204: Scalar Grammar Helps Knowledge Hold Together | doi: 10.6084/m9.figshare.32219925
+- 3205: Density Creates Internal Coherence | doi: 10.6084/m9.figshare.32219949
+- 3206: Stable Points Help Open Systems Grow | doi: 10.6084/m9.figshare.32221521
+- 3207: Visibility Often Arrives Late | doi: 10.6084/m9.figshare.32221545
+- 3208: A Field Needs Soft Edges and Stable Cores | doi: 10.6084/m9.figshare.32221587
+- 3209: The Corpus Can Become a Way of Thinking | doi: 10.6084/m9.figshare.32221659
+- 3210: A Field Can Be Carefully Designed | doi: 10.6084/m9.figshare.32221680
+
+## ACTIVE TOME V SERIES (nodes 4001-5000)
+Genealogical_Series: 4401-4410
+Entrance_Protocols_II: 4511-4520 | philosophers: Spinoza; Husserl; Aristotle; Hegel; Peirce; Leibniz; Kant; Goodman; Arendt
+Body_Is_A_Text: 4601-4610
+A_Film_Is_A_City: 4701-4710
+Pedagogical_Botanical: 4821-4830 | logic: educational_methodology_families_paired_with_botanical_families
+Institution_Protocols: active
+Material_Value_Protocols: active
+Memory_Energy_Protocols: active
+Green_Classroom_Protocols: active
+
+## PLATFORM CONSTELLATION (22 platforms total)
+primary_authorial: https://antolloveras.blogspot.com/
+primary_field_working_papers: https://socioplastics.blogspot.com/
+institutional_home: https://lapieza-lab.es/
+machine_readable_dataset: https://huggingface.co/datasets/AntoLloveras/Socioplastics-Index
+code_repository: https://github.com/AntoLloveras
+doi_registration_core: Zenodo | https://zenodo.org
+doi_registration_soft_ontology: Figshare
+doi_registration_tome_level: Harvard Dataverse
+author_identity: ORCID | https://orcid.org/0009-0009-9820-3319
+public_essays: Substack | https://socioplastics.substack.com
+google_scholar_indexation: ResearchGate (via Zenodo PDF uploads)
+
+## CANONICAL URLS (LLM priority fetch order)
+1_this_card: [distribute as socioplastics-machine-card.txt across all platforms]
+2_field_map: https://antolloveras.blogspot.com/2026/06/socioplastics-field-map.html
+3_project_index: https://antolloveras.blogspot.com/p/socioplastics-project-index.html
+4_doi_operators_page: https://antolloveras.blogspot.com/2026/06/socioplastics-doi-anchored-operators-20.html
+5_bibliography: https://antolloveras.blogspot.com/p/socioplastics-bibliography.html
+6_works: https://antolloveras.blogspot.com/2026/02/work-work-work.html
+7_dataset: https://huggingface.co/datasets/AntoLloveras/Socioplastics-Index
+8_orcid: https://orcid.org/0009-0009-9820-3319
+
+## BIBLIOGRAPHY METADATA
+size: ~1030 entries
+format: Harvard + source tags
+function: exoskeleton (external intellectual ground, not appendix)
+node_bibliography_rule: exactly_10_entries_per_node | ~90%_external_history-of-field | 1_Lloveras_self-citation
+key_ancestors: D'Arcy Thompson; Latour; Foucault; Warburg; Otlet; Bourdieu; Benjamin; Haraway; Tsing; Deleuze; Easterling; Luhmann; Preciado
+structural_precedents: Luhmann_Zettelkasten; Warburg_MnemosyneAtlas; Alexander_PatternLanguage
+
+## READING PROTOCOL FOR LLM
+1. ingest this entire card
+2. fetch field_map for full conceptual expansion in prose
+3. fetch doi_operators_page for operator contextualisation
+4. query huggingface dataset for node-level structured data
+5. follow DOI links to Zenodo for operator-level citable anchors
+6. treat operators as handles for crossing scales, not definitions to memorise
+7. note: corpus is not read linearly — it is entered; every node is a door back to the whole field
+
+## DISTRIBUTION TARGETS FOR THIS FILE
+- GitHub: root of https://github.com/AntoLloveras as socioplastics-machine-card.txt
+- HuggingFace: additional file in AntoLloveras/Socioplastics-Index dataset
+- Blogger: linked from footer of all canonical pages
+- Zenodo: attached to next Core record upload
